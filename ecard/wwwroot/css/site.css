@@ -1,15 +1,14 @@
 body {
     color:#0C0F37;
     background: #000;
-    font-family: Arial;
-    font-size: 12px;
+
 }
 
 a {
     color: #FFFFFF;
     text-decoration: none;
 }
-
+ 
     a:hover {
         color: #00ff21;
         font-size: 1em;
